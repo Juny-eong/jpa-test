@@ -1,6 +1,5 @@
 # settings
-/.settings/
-
+.settings/
 target/
 
 # java class
