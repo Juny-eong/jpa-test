@@ -1,6 +1,7 @@
 # settings
 .settings/
 target/
+.project
 
 # java class
 *.class
